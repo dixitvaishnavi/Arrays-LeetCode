@@ -1,0 +1,11 @@
+// For each VALUE in the Array.
+for (int square : squareNumbers) {
+    // Print the current value of square.
+    System.out.println(square);
+}
+// Prints exactly the same as the previous example.
+// You'll probably agree that this code is a lot simpler to read.
+// We can use it whenever we don't need the index values. 
+// For actually writing the squares into the Array,
+// it wouldn't have worked because we needed to work with the actual index numbers.
+// You don't have to use a "for each" loop when you're starting out, but we recommend you become comfortable with it before interviews. Simple, elegant code is good code!
