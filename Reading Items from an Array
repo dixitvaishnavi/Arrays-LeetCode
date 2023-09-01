@@ -1,0 +1,10 @@
+// Print out what's in indexes 7, 10, and 3.
+System.out.println(dvdCollection[7]);
+System.out.println(dvdCollection[10]);
+System.out.println(dvdCollection[3]);
+
+// Will print:
+
+// The Avengers, directed by Joss Whedon, released in 2012
+// null
+// Star Wars, directed by George Lucas, released in 1977
